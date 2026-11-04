@@ -18,4 +18,4 @@ Opmaak staat in `css/style.css`. Kleine fouten kun je ook direct op github.com v
 
 ## Eigen domein
 
-Het domein henhverduurzaming.nl (Mijndomein, op naam van Spinam) is gekoppeld via het bestand `CNAME` in de hoofdmap. DNS: vier A- en AAAA-records op het hoofddomein naar GitHub Pages, en `www` als CNAME naar `dandoopur.github.io`.
+Het domein henhverduurzaming.nl (Mijndomein, op naam van Spinam) is gekoppeld via het bestand `CNAME` in de hoofdmap. DNS: vier A- en AAAA-records op het hoofddomein naar GitHub Pages, en `www` met dezelfde vier A-records. Let op: Mijndomein publiceert geen CNAME-records, dus voor www geen CNAME gebruiken. Geen wildcard-records (`*`).
