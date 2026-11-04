@@ -18,4 +18,4 @@ Opmaak staat in `css/style.css`. Kleine fouten kun je ook direct op github.com v
 
 ## Eigen domein
 
-Als henhverduurzaming.nl gekocht is: hernoem `bron/CNAME.later` naar `CNAME` in de hoofdmap en stel de DNS in volgens de GitHub Pages-handleiding.
+Het domein henhverduurzaming.nl (Mijndomein, op naam van Spinam) is gekoppeld via het bestand `CNAME` in de hoofdmap. DNS: vier A- en AAAA-records op het hoofddomein naar GitHub Pages, en `www` als CNAME naar `dandoopur.github.io`.
