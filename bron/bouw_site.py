@@ -61,7 +61,7 @@ VOET = """<footer class="voet">
 </html>
 """
 
-BIJGEWERKT = "28 oktober 2026"
+BIJGEWERKT = "8 november 2026"
 
 
 def pagina(bestand, titel, omschrijving, inhoud):
