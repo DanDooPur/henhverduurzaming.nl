@@ -6,7 +6,7 @@ DOEL = pathlib.Path(sys.argv[1])
 MENU = [
     ("index.html", "Home"),
     ("plan.html", "Het plan"),
-    ("standpunt.html", "Ons standpunt"),
+    ("standpunt.html", "Ons advies"),
     ("tijdlijn.html", "Tijdlijn"),
     ("vragen.html", "Vragen"),
 ]
@@ -61,7 +61,7 @@ VOET = """<footer class="voet">
 </html>
 """
 
-BIJGEWERKT = "8 november 2026"
+BIJGEWERKT = "11 november 2026"
 
 
 def pagina(bestand, titel, omschrijving, inhoud):
