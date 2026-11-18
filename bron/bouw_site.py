@@ -21,7 +21,6 @@ KOP = """<!doctype html>
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div class="concept">Concept: deze teksten zijn nog niet vastgesteld door het bestuur.</div>
 <header class="kop">
   <div class="wrap">
     <a class="logo" href="index.html"><strong>Verduurzaming Hakfort &amp; Huigenbos</strong><span>Bewonersvereniging Hakfort en Huigenbos</span></a>
